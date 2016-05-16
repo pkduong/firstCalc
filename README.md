@@ -13,3 +13,8 @@ Notes:
 
 - User has to CLEAR if they want to calculate new expression
 
+Known-issues:
+
+- App closed unexpectedly if user input a big number > 10 char
+
+
