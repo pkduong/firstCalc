@@ -15,6 +15,6 @@ Notes:
 
 Known-issues:
 
-- App closed unexpectedly if user input a big number > 10 char
+- App closed unexpectedly if user input a big number > 9 digits
 
 
